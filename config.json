@@ -1,13 +1,13 @@
 {
     "credentials": {
-        "tenantName": "fabrikamb2c",
-        "clientID": "93733604-cc77-4a3c-a604-87084dd55348"
+        "tenantName": "labiftestb2c",
+        "clientID": "b6dbc380-0932-4179-bb0d-c61692029765"
     },
     "policies": {
-        "policyName": "B2C_1_susi"
+        "policyName": "B2C_1_SignInAPP2"
     },
     "resource": {
-        "scope": ["tasks.read"]
+        "scope": ["demo.read"]
     },
     "metadata": {
         "authority": "login.microsoftonline.com",
